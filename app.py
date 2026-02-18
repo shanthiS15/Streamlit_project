@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title
-st.title("My First Streamlit App")
+st.title("My second Streamlit App")
 
 # Header
 st.header("Welcome Shanthi 👋")
